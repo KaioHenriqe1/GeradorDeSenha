@@ -14,4 +14,4 @@ Dê as boas-vindas ao CifraGuard, seu aliado na criação de senhas invulneráve
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/KaioHenriqe1/CifraGuard.git
+   git clone https://github.com/KaioHenriqe1/GeradorDeSenha
