@@ -1,4 +1,4 @@
-# CifraGuard - Seu Protetor de Senhas
+#  Gerador de Senhas Seguras - Seu Protetor de Senhas
 
 Dê as boas-vindas ao CifraGuard, seu aliado na criação de senhas invulneráveis! Este projeto proporciona uma solução descomplicada e poderosa para personalizar e fortalecer as senhas que protegem suas contas online.
 
